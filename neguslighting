@@ -1,0 +1,26 @@
+neguslighting/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ assets/
+│  │  ├─ services/        # all your service images
+│  │  ├─ portfolio/       # all your portfolio images
+│  │  └─ logo.jpg         # logo
+│  ├─ components/
+│  │  ├─ Navigation.jsx
+│  │  ├─ HeroSection.jsx
+│  │  ├─ AboutSection.jsx
+│  │  ├─ ServicesSection.jsx
+│  │  ├─ PortfolioSection.jsx
+│  │  ├─ ContactSection.jsx
+│  │  └─ Footer.jsx
+│  ├─ pages/
+│  │  ├─ Index.jsx
+│  │  └─ NotFound.jsx
+│  ├─ App.jsx
+│  └─ main.jsx
+├─ tailwind.css
+├─ tailwind.config.js
+├─ package.json
+├─ vite.config.js
+└─ vercel.json
