@@ -1,0 +1,39 @@
+neguslighting/
+├─ public/
+│  └─ index.html
+├─ src/
+│  ├─ assets/
+│  │  ├─ logo.jpg
+│  │  ├─ services/
+│  │  │  ├─ luxury-events.jpg
+│  │  │  ├─ film-tv.jpg
+│  │  │  ├─ luxury-retail.jpg
+│  │  │  ├─ exhibitions.jpg
+│  │  │  ├─ private-residences.jpg
+│  │  │  ├─ hospitality.jpg
+│  │  │  ├─ brand-activation.jpg
+│  │  │  ├─ theatrical.jpg
+│  │  │  └─ window-displays.jpg
+│  │  │  └─ consulting.jpg
+│  │  ├─ portfolio/
+│  │     ├─ steers-gwanda.jpg
+│  │     ├─ next-level-sportswear.jpg
+│  │     └─ africa-day.jpg
+│  ├─ components/
+│  │  ├─ Navigation.jsx
+│  │  ├─ HeroSection.jsx
+│  │  ├─ AboutSection.jsx
+│  │  ├─ ServicesSection.jsx
+│  │  ├─ PortfolioSection.jsx
+│  │  ├─ ContactSection.jsx
+│  │  └─ Footer.jsx
+│  ├─ pages/
+│  │  ├─ Index.jsx
+│  │  └─ NotFound.jsx
+│  ├─ App.jsx
+│  ├─ main.jsx
+│  └─ tailwind.css
+├─ tailwind.config.js
+├─ vite.config.js
+├─ package.json
+└─ vercel.json
